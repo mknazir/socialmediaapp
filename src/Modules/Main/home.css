@@ -1,0 +1,11 @@
+.SideContent{
+    height: 60px;
+    width: 90%;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: 500;
+}
+.SideContent:hover{
+    background: #EBECF0;
+    font-weight: 700;
+}
